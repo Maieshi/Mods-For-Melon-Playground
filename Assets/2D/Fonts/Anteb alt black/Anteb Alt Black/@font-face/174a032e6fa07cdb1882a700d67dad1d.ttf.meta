@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 48073f1cdf1a21348a0374dcc395c77d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - AntebAlt-Black
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 835077d14b295da47b5048d4b2be9f4f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: Alphalore2 
+  assetBundleName: 
+  assetBundleVariant: 

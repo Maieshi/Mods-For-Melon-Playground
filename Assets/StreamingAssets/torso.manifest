@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 3304748925
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 535427e9dde467e18f579d7fef8bd531
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DModel/Skins/torso/torso (31).jpg
+- Assets/3DModel/Skins/torso/torso (17).jpg
+- Assets/3DModel/Skins/torso/torso (25).jpg
+- Assets/3DModel/Skins/torso/torso (27).jpg
+- Assets/3DModel/Skins/torso/torso (39).jpg
+- Assets/3DModel/Skins/torso/torso (40).jpg
+- Assets/3DModel/Skins/torso/torso (12).jpg
+- Assets/3DModel/Skins/torso/torso (22).jpg
+- Assets/3DModel/Skins/torso/torso (33).jpg
+- Assets/3DModel/Skins/torso/torso (38).jpg
+- Assets/3DModel/Skins/torso/torso (7).jpg
+- Assets/3DModel/Skins/torso/torso (36).jpg
+- Assets/3DModel/Skins/torso/torso (1).jpg
+- Assets/3DModel/Skins/torso/torso (37).jpg
+- Assets/3DModel/Skins/torso/torso (21).jpg
+- Assets/3DModel/Skins/torso/torso (30).jpg
+- Assets/3DModel/Skins/torso/torso (26).jpg
+- Assets/3DModel/Skins/torso/torso (18).jpg
+- Assets/3DModel/Skins/torso/torso (23).jpg
+- Assets/3DModel/Skins/torso/torso (3).jpg
+- Assets/3DModel/Skins/torso/torso (24).jpg
+- Assets/3DModel/Skins/torso/torso (5).jpg
+- Assets/3DModel/Skins/torso/torso (19).jpg
+- Assets/3DModel/Skins/torso/torso (32).jpg
+- Assets/3DModel/Skins/torso/torso (10).jpg
+- Assets/3DModel/Skins/torso/torso (2).jpg
+- Assets/3DModel/Skins/torso/torso (14).jpg
+- Assets/3DModel/Skins/torso/torso (20).jpg
+- Assets/3DModel/Skins/torso/torso (6).jpg
+- Assets/3DModel/Skins/torso/torso (29).jpg
+- Assets/3DModel/Skins/torso/torso (11).jpg
+- Assets/3DModel/Skins/torso/torso (4).jpg
+- Assets/3DModel/Skins/torso/torso (15).jpg
+- Assets/3DModel/Skins/torso/torso (9).jpg
+- Assets/3DModel/Skins/torso/torso (13).jpg
+- Assets/3DModel/Skins/torso/torso (35).jpg
+- Assets/3DModel/Skins/torso/torso (8).jpg
+- Assets/3DModel/Skins/torso/torso (16).jpg
+- Assets/3DModel/Skins/torso/torso (28).jpg
+- Assets/3DModel/Skins/torso/torso (34).jpg
+Dependencies: []

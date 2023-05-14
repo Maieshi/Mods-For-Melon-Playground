@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2187481863
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fab709dcf45922727f73f2b3866c9d3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DModel/Skins/face_textures/faces (47).png
+- Assets/3DModel/Skins/face_textures/faces (42).png
+- Assets/3DModel/Skins/face_textures/faces (2).png
+- Assets/3DModel/Skins/face_textures/faces (38).png
+- Assets/3DModel/Skins/face_textures/faces (24).png
+- Assets/3DModel/Skins/face_textures/faces (5).png
+- Assets/3DModel/Skins/face_textures/faces (3).png
+- Assets/3DModel/Skins/face_textures/faces (39).png
+- Assets/3DModel/Skins/face_textures/faces (10).png
+- Assets/3DModel/Skins/face_textures/faces (1).png
+- Assets/3DModel/Skins/face_textures/faces (4).png
+- Assets/3DModel/Skins/face_textures/faces (20).png
+- Assets/3DModel/Skins/face_textures/faces (25).png
+- Assets/3DModel/Skins/face_textures/faces (49).png
+- Assets/3DModel/Skins/face_textures/faces (32).png
+- Assets/3DModel/Skins/face_textures/faces (36).png
+- Assets/3DModel/Skins/face_textures/faces (45).png
+- Assets/3DModel/Skins/face_textures/faces (29).png
+- Assets/3DModel/Skins/face_textures/faces (26).png
+- Assets/3DModel/Skins/face_textures/faces (28).png
+- Assets/3DModel/Skins/face_textures/faces (21).png
+- Assets/3DModel/Skins/face_textures/faces (30).png
+- Assets/3DModel/Skins/face_textures/faces (37).png
+- Assets/3DModel/Skins/face_textures/faces (44).png
+- Assets/3DModel/Skins/face_textures/faces (46).png
+- Assets/3DModel/Skins/face_textures/faces (34).png
+- Assets/3DModel/Skins/face_textures/faces (33).png
+- Assets/3DModel/Skins/face_textures/faces (9).png
+- Assets/3DModel/Skins/face_textures/faces (17).png
+- Assets/3DModel/Skins/face_textures/faces (23).png
+- Assets/3DModel/Skins/face_textures/faces (14).png
+- Assets/3DModel/Skins/face_textures/faces (11).png
+- Assets/3DModel/Skins/face_textures/faces (48).png
+- Assets/3DModel/Skins/face_textures/faces (43).png
+- Assets/3DModel/Skins/face_textures/faces (12).png
+- Assets/3DModel/Skins/face_textures/faces (31).png
+- Assets/3DModel/Skins/face_textures/faces (8).png
+- Assets/3DModel/Skins/face_textures/faces (22).png
+- Assets/3DModel/Skins/face_textures/faces (27).png
+- Assets/3DModel/Skins/face_textures/faces (7).png
+- Assets/3DModel/Skins/face_textures/faces (40).png
+- Assets/3DModel/Skins/face_textures/faces (41).png
+- Assets/3DModel/Skins/face_textures/faces (35).png
+- Assets/3DModel/Skins/face_textures/faces (15).png
+- Assets/3DModel/Skins/face_textures/faces (13).png
+- Assets/3DModel/Skins/face_textures/faces (18).png
+- Assets/3DModel/Skins/face_textures/faces (6).png
+- Assets/3DModel/Skins/face_textures/faces (19).png
+- Assets/3DModel/Skins/face_textures/faces (16).png
+Dependencies: []

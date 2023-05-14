@@ -1,0 +1,86 @@
+ManifestFileVersion: 0
+CRC: 1079564476
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c80da85d19fe95be6256dbd49ebdaf8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fee1c6e80ce93dc43c78a279afa71396
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BundledAssets/ITEMS/items (39).fbx
+- Assets/BundledAssets/ITEMS/items (14).fbx
+- Assets/BundledAssets/ITEMS/items (23).fbx
+- Assets/BundledAssets/ITEMS/items (18).fbx
+- Assets/BundledAssets/ITEMS/items (31).fbx
+- Assets/BundledAssets/ITEMS/items (8).fbx
+- Assets/BundledAssets/ITEMS/items (47).fbx
+- Assets/BundledAssets/ITEMS/items (57).fbx
+- Assets/BundledAssets/ITEMS/items (16).fbx
+- Assets/BundledAssets/ITEMS/items (19).fbx
+- Assets/BundledAssets/ITEMS/items (27).fbx
+- Assets/BundledAssets/ITEMS/items (50).fbx
+- Assets/BundledAssets/ITEMS/items (48).fbx
+- Assets/BundledAssets/ITEMS/items (51).fbx
+- Assets/BundledAssets/ITEMS/items (38).fbx
+- Assets/BundledAssets/ITEMS/items (29).fbx
+- Assets/BundledAssets/ITEMS/items (4).fbx
+- Assets/BundledAssets/ITEMS/items (10).fbx
+- Assets/BundledAssets/ITEMS/items (28).fbx
+- Assets/BundledAssets/ITEMS/items (24).fbx
+- Assets/BundledAssets/ITEMS/items (13).fbx
+- Assets/BundledAssets/ITEMS/items (54).fbx
+- Assets/BundledAssets/ITEMS/items (36).fbx
+- Assets/BundledAssets/ITEMS/items (17).fbx
+- Assets/BundledAssets/ITEMS/items (21).fbx
+- Assets/BundledAssets/ITEMS/items (46).fbx
+- Assets/BundledAssets/ITEMS/items (1).fbx
+- Assets/BundledAssets/ITEMS/items (43).fbx
+- Assets/BundledAssets/ITEMS/items (53).fbx
+- Assets/BundledAssets/ITEMS/items (2).fbx
+- Assets/BundledAssets/ITEMS/items (32).fbx
+- Assets/BundledAssets/ITEMS/items (20).fbx
+- Assets/BundledAssets/ITEMS/items (11).fbx
+- Assets/BundledAssets/ITEMS/items (26).fbx
+- Assets/BundledAssets/ITEMS/items (25).fbx
+- Assets/BundledAssets/ITEMS/items (55).fbx
+- Assets/BundledAssets/ITEMS/items (33).fbx
+- Assets/BundledAssets/ITEMS/items (5).fbx
+- Assets/BundledAssets/ITEMS/items (35).fbx
+- Assets/BundledAssets/ITEMS/items (52).fbx
+- Assets/BundledAssets/ITEMS/items (58).fbx
+- Assets/BundledAssets/ITEMS/items (45).fbx
+- Assets/BundledAssets/ITEMS/items (30).fbx
+- Assets/BundledAssets/ITEMS/items (56).fbx
+- Assets/BundledAssets/ITEMS/items (42).fbx
+- Assets/BundledAssets/ITEMS/items (12).fbx
+- Assets/BundledAssets/ITEMS/items (37).fbx
+- Assets/BundledAssets/ITEMS/items (41).fbx
+- Assets/BundledAssets/ITEMS/items (49).fbx
+- Assets/BundledAssets/ITEMS/items (40).fbx
+- Assets/BundledAssets/ITEMS/items (44).fbx
+- Assets/BundledAssets/ITEMS/items (7).fbx
+- Assets/BundledAssets/ITEMS/items (22).fbx
+- Assets/BundledAssets/ITEMS/items (34).fbx
+- Assets/BundledAssets/ITEMS/items (3).fbx
+- Assets/BundledAssets/ITEMS/items (6).fbx
+- Assets/BundledAssets/ITEMS/items (9).fbx
+- Assets/BundledAssets/ITEMS/items (15).fbx
+Dependencies: []

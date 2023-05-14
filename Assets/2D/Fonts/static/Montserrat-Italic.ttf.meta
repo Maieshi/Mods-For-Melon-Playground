@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: f597e0a586b660c41b2042c8d6e214a6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Montserrat
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c3f1bbf3d22f2b345b5fc9a10106b9df, type: 3}
+  - {fileID: 12800000, guid: 0099510b7f7663643aa250520a0e9350, type: 3}
+  - {fileID: 12800000, guid: 62551ab0c61ea2b438721af21add16d0, type: 3}
+  - {fileID: 12800000, guid: 042415a29ea322a4c858edd8fb290d63, type: 3}
+  - {fileID: 12800000, guid: 02b2f49960827ba4a8f4b1146bcb244c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: Alphalore2 
+  assetBundleName: 
+  assetBundleVariant: 

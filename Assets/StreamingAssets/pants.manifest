@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 4234985470
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7413b18c63b296060693aa09f741478
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c21d61fe394c58399df3c6fb5c7c99b3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/3DModel/pants_textures_2.0/pants (6).jpg
+- Assets/3DModel/pants_textures_2.0/pants (1).jpg
+- Assets/3DModel/pants_textures_2.0/pants (2).jpg
+- Assets/3DModel/pants_textures_2.0/pants (9).jpg
+- Assets/3DModel/pants_textures_2.0/pants (7).jpg
+- Assets/3DModel/pants_textures_2.0/pants (8).jpg
+- Assets/3DModel/pants_textures_2.0/pants (3).jpg
+- Assets/3DModel/pants_textures_2.0/pants (4).jpg
+- Assets/3DModel/pants_textures_2.0/pants (10).jpg
+- Assets/3DModel/pants_textures_2.0/pants (5).jpg
+- Assets/3DModel/pants_textures_2.0/pants (11).jpg
+Dependencies: []

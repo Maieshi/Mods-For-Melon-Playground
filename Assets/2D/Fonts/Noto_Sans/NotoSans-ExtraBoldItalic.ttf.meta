@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: f83d014811913c54a9abd63f17b3dba4
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Noto Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 818300f22f0803e45b78e840e7acc232, type: 3}
+  - {fileID: 12800000, guid: a8d3563f7f46eb44e9da3496d7cb9d3c, type: 3}
+  - {fileID: 12800000, guid: a86994a738e4a7e438a2bf54ecc20585, type: 3}
+  - {fileID: 12800000, guid: 81ce7e1ba31748d4085c26ce66607eca, type: 3}
+  - {fileID: 12800000, guid: 9231e6fd97647d14f9dd6c9e2f3dce6d, type: 3}
+  - {fileID: 12800000, guid: f5fb5b6c2eec59d4e811e80cb63ca15a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: Alphalore2 
+  assetBundleName: 
+  assetBundleVariant: 

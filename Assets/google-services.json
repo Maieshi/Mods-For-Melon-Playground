@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "165506762215",
+    "project_id": "backrooms--building-master",
+    "storage_bucket": "backrooms--building-master.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165506762215:android:efa25778235dfe3e7de942",
+        "android_client_info": {
+          "package_name": "com.myapp4.jkghfjkhgjfkhgjkfdhghjdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165506762215-s3spj5qn4iesi06lsh04ngkjv7kgg48k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7MUyqVCn3BzoXOsatasDfAQjXTCkq7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165506762215-s3spj5qn4iesi06lsh04ngkjv7kgg48k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165506762215-9loh2p0mevlkholrjmqf4vu8m6tc7rcc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myapp4.jkghfjkhgjfkhgjkfdhghjdf",
+                "app_store_id": "6444203776"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
